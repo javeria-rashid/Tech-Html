@@ -1,0 +1,28 @@
+        table{
+            width: 50%;
+            margin: 15px 20px 15px 20px;
+            background-color: gray;
+
+        }
+        table,
+        th,
+        td{
+            border-style:solid;
+            color: rgb(144, 186, 211);
+            border-collapse: collapse;
+        }
+        th,
+        td{
+            padding: 5px 100px;
+        }
+   .info {
+       color: lawngreen;
+       background-color: rgba(194, 71, 255, 0.597);
+   }
+   .bold-font{
+       font-weight: 700;
+       font-style: italic;
+       line-height: 40px;
+       padding: 10px 30px;
+       
+   }
